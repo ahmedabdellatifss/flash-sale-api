@@ -62,7 +62,7 @@ A production-ready Laravel 12 API for managing flash sales with concurrency-safe
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/flash-sale-api.git
+git clone https://github.com/ahmedabdellatifss/flash-sale-api.git
 cd flash-sale-api
 
 # 2. Install dependencies
